@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2dba8b-b7a1-47cd-844a-bbb3708cdf0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Real Projects Collection 01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greeting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/group_name_generator.py" afterDir="false" />
+    <list default="true" id="fb2dba8b-b7a1-47cd-844a-bbb3708cdf0f" name="Changes" comment="Added greeting app and group name generator">
+      <change afterPath="$PROJECT_DIR$/gross_pay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group_name_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/group_name_generator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.greeting.executor": "Run",
+    "Python.gross_pay.executor": "Run",
     "Python.group_name_generator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -63,6 +59,30 @@
       <option name="presentableId" value="Default" />
       <updated>1710679850010</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added greeting app and group name generator">
+      <option name="closed" value="true" />
+      <created>1710681205040</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710681205040</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added greeting app and group name generator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added greeting app and group name generator" />
   </component>
 </project>
