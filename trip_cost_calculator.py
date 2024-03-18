@@ -1,0 +1,8 @@
+print("Welcome to the Trip Cost Calculator!")
+days = int(input("How many days will you stay? "))
+hotelCostPerNight = int(input("How much does hotel cost per night? $"))
+flightCost = int(input("How much does flight cost? $"))
+rentalCar = int(input("If you need rentalCar please enter the price otherwise enter zero. $"))
+other = int(input("Enter other possible expenses $"))
+totalCost = round(days * hotelCostPerNight + flightCost + days * rentalCar + other, 2)
+print(f"Total Cost: ${totalCost}")
