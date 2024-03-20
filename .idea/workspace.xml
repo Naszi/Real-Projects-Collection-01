@@ -4,10 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2dba8b-b7a1-47cd-844a-bbb3708cdf0f" name="Changes" comment="Added gross pay app">
-      <change afterPath="$PROJECT_DIR$/celsius_to_fahrenheit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trip_cost_calculator.py" afterDir="false" />
+    <list default="true" id="fb2dba8b-b7a1-47cd-844a-bbb3708cdf0f" name="Changes" comment="Added celsius to fahrenheit and trip cost calculator app">
+      <change afterPath="$PROJECT_DIR$/006_gross_pay_with_overtime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/007_leap_year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/008_love_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/009_gross_pay_with_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010_score_checker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/celsius_to_fahrenheit.py" beforeDir="false" afterPath="$PROJECT_DIR$/004_celsius_to_fahrenheit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greeting.py" beforeDir="false" afterPath="$PROJECT_DIR$/001_greeting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gross_pay.py" beforeDir="false" afterPath="$PROJECT_DIR$/003_gross_pay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/group_name_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/002_group_name_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trip_cost_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/005_trip_cost_calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +32,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2dogT7gOFEy23EZXmpyXS3QZ3vJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,10 +46,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.006_gross_pay_with_overtime.executor": "Run",
+    "Python.007_leap_year.executor": "Run",
+    "Python.008_love_calculator.executor": "Run",
+    "Python.009_gross_pay_with_exception.executor": "Run",
+    "Python.010_score_checker.executor": "Run",
     "Python.celsius_to_fahrenheit.executor": "Run",
     "Python.greeting.executor": "Run",
     "Python.gross_pay.executor": "Run",
     "Python.group_name_generator.executor": "Run",
+    "Python.trip_cost_calculator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -76,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710682492909</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added celsius to fahrenheit and trip cost calculator app">
+      <option name="closed" value="true" />
+      <created>1710764886750</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710764886750</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added greeting app and group name generator" />
     <MESSAGE value="Added gross pay app" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added gross pay app" />
+    <MESSAGE value="Added celsius to fahrenheit and trip cost calculator app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added celsius to fahrenheit and trip cost calculator app" />
   </component>
 </project>
